@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Roy;Michael;;;
+FN:Michael Roy
+ORG:Metric Strategies
+ADR;TYPE=WORK:Vancouver, BC, Canada
+TITLE:Managing Director
+TEL;TYPE=CELL:+1-604-704-5554
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:mikelroy@gmail.com
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Signal:https://signal.me/#p/+16047045554
+URL;TYPE=Messenger:https://m.me/mikelroy
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/mikelroy/
+URL;TYPE=Medium:https://medium.com/michael-roy
+URL;TYPE=Twitter:https://twitter.com/https://www.twitter.com/mikelroy
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100170705
+END:VCARD
